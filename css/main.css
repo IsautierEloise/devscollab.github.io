@@ -82,7 +82,7 @@ body {
     height: 100%;
     display: grid;
     grid-template-rows: 0.8fr 1fr 1fr;
-    background: url('/images/landing.png');
+    background: url('/images/landing.jpg');
     background-size: cover;
     background-attachment: fixed
 }
